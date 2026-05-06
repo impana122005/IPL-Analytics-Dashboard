@@ -15,7 +15,7 @@ This project is built using Power BI to analyze IPL data (2008–2024).
 - Excel Dataset
 
 ## Screenshots:
-![Dashboard](Screenshot.png)
+![IPL Dashboard](Dashboard.png)
 
 ## 🎯 What I Learned
 - Data visualization in Power BI
